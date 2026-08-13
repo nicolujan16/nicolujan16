@@ -20,7 +20,7 @@ Role-based access control across three isolated portals (Admin, Teachers, Studen
 `React` · `Firebase` · `Cloud Functions` · `Mercado Pago`
 🔗 [englishempire.com.ar](https://englishempire.com.ar/)
 
-**[Pokernauta](https://github.com/nicolujan16/pokernauta-app)** — Real-time multiplayer poker
+**[Pokernauta](https://github.com/nicolujan16/poker-app)** — Real-time multiplayer poker
 Concurrent multiplayer tables with real-time state synchronization via Firestore listeners. Hand evaluation and bet validation run server-side on AWS Lambda, keeping game logic as the single source of truth and eliminating client-side cheating vectors.
 `React` · `Firestore` · `AWS Lambda` · `Tailwind CSS`
 🔗 [pokernauta.netlify.app](https://pokernauta.netlify.app/)
